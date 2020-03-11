@@ -1,0 +1,6 @@
+13-Oct-2019 15:03:16.896 정보 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Oct-2019 15:03:16.896 정보 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Oct-2019 15:03:16.896 정보 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1b8a78d7')
+13-Oct-2019 15:03:49.827 정보 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+13-Oct-2019 15:03:49.827 정보 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+13-Oct-2019 15:03:49.828 정보 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@53c208cc')
